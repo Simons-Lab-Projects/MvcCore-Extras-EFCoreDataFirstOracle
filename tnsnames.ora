@@ -1,0 +1,9 @@
+﻿OracleOT =
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = database-1.cma5ondcixlz.eu-west-1.rds.amazonaws.com)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = orcl)
+    )
+  )
